@@ -1,0 +1,25 @@
+code,name,category,qty,location,minimum
+P001,Rodamiento 6205,Transmisión,12,A-01,8
+P002,Correa trapezoidal A42,Transmisión,24,A-02,5
+P003,Sensor inductivo M12,Control,15,B-01,5
+P004,Fusible 10 A,Eléctrica,50,C-01,10
+P005,Válvula solenoide 24 V,Neumática,9,D-01,4
+P006,Motor DC 24 V,Eléctrica,4,C-02,10
+P007,Filtro hidráulico 10 µm,Hidráulica,17,E-01,5
+P008,Sensor óptico,Control,2,B-02,5
+P009,Acople flexible 25 mm,Transmisión,13,A-03,4
+P010,Manómetro 0–160 bar,Hidráulica,7,E-02,3
+P011,Banda industrial,Transmisión,0,A-04,5
+P012,Cilindro neumático 32 mm,Neumática,8,D-02,3
+P013,Rodamiento 6001,Transmisión,3,A-05,10
+P014,Contactor 18 A,Eléctrica,11,C-03,4
+P015,Relé térmico,Eléctrica,16,C-04,4
+P016,Interruptor de límite,Control,18,B-03,5
+P017,Manguera hidráulica 1/2 pulg.,Hidráulica,26,E-03,6
+P018,Racor rápido 8 mm,Neumática,32,D-03,8
+P019,Retén de eje 30 mm,Transmisión,21,A-06,5
+P020,Fuente de alimentación 24 V,Eléctrica,10,C-05,3
+P021,Junta tórica NBR,Hidráulica,45,E-04,10
+P022,Válvula reguladora de caudal,Neumática,6,D-04,4
+P023,Encoder incremental,Control,0,B-04,3
+P024,Pulsador de paro de emergencia,Control,14,B-05,4
